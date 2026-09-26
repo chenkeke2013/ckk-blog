@@ -29,7 +29,7 @@
 # =============================================================================
 
 # 站点正式访问地址（影响 sitemap、RSS、分享链接等绝对 URL，部署前务必与真实域名一致）
-baseURL = 'https://ckk-blog.vercel.app/'
+baseURL = 'https://chenkeke.netlify.app/'
 locale = 'zh-cn'
 defaultContentLanguage = 'zh'
 title = "ckk' blog"         # 站点名称（浏览器标题、页脚版权等）
@@ -224,7 +224,7 @@ enableRobotsTXT = true     # 生成 robots.txt（模板在 themes/aiovtue/layout
     rotateInterval = 5000  # 左侧随机文章轮播间隔（毫秒）
     [[params.notice.sections]]
       label = '--- 主域名 ---'
-      lines = ['https://ckk-blog.vercel.app/']
+      lines = ['https://chenkeke.netlify.app/']
     [[params.notice.sections]]
       label = '--- 这是公告 ---'
       lines = ['公告在配置文件中修改哦']
