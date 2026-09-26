@@ -224,7 +224,7 @@ enableRobotsTXT = true     # 生成 robots.txt（模板在 themes/aiovtue/layout
     rotateInterval = 5000  # 左侧随机文章轮播间隔（毫秒）
     [[params.notice.sections]]
       label = '--- 主域名 ---'
-      lines = ['http://ckk-blog.vercel.app/']
+      lines = ['https://ckk-blog.vercel.app/']
     [[params.notice.sections]]
       label = '--- 这是公告 ---'
       lines = ['公告在配置文件中修改哦']
