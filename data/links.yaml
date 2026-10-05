@@ -43,7 +43,7 @@ linkGroups:
     links:
       # 占位友链，可替换为真实申请者的信息
       - url: https://example.com/xeu
-        avatar: https://api.dicebear.com/7.x/adventurer/svg?seed=xeu
+        avatar: https://api.dicebear.com/7.x/adventurer/svg?seed=xeu  
         name: 友链出租哦~
         blog: 友链出租哦~
         desc: 有没有心动呢~
