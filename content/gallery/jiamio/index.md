@@ -3,7 +3,7 @@ title: "秘密哦"
 date: 2025-06-15
 cover: "https://r2tc.20030327.xyz/file/博客/主题/1780908652756_ghjuyh.png"
 desc: "加密了哟，要不要猜猜密码呢~"
-location: "重庆"
+location: "厦门"
 encrypted: true
 password: "123456"
 source: local
